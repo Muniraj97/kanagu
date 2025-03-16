@@ -40,7 +40,8 @@ public static void main(String[] args) {
 	System.out.println(size);
 	boolean contains = r.contains(null);
 	System.out.println(contains);
-	
+	System.out.println("hiiiiiii");
+	System.out.println("How are you");
 	
 	
 }
